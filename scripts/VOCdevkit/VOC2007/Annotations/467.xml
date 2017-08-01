@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>spider_download</folder>
+  <filename>467.jpg</filename>
+  <path>/home/yanweixin/Pictures/spider_download/467.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1042</width>
+    <height>786</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>lichen</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>569</xmin>
+      <ymin>113</ymin>
+      <xmax>798</xmax>
+      <ymax>364</ymax>
+    </bndbox>
+  </object>
+</annotation>

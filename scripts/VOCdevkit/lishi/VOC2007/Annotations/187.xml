@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>VOC2007</folder>
+  <filename>187.jpg</filename>
+  <path>/home/lbin/Pictures/VOC2007/187.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>434</width>
+    <height>424</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dengchao</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>141</xmin>
+      <ymin>44</ymin>
+      <xmax>318</xmax>
+      <ymax>224</ymax>
+    </bndbox>
+  </object>
+</annotation>

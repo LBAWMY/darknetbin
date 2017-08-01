@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>VOC2007</folder>
+  <filename>105.jpg</filename>
+  <path>/home/lbin/Pictures/VOC2007/105.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>310</width>
+    <height>414</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chenhe</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>33</xmin>
+      <ymin>86</ymin>
+      <xmax>176</xmax>
+      <ymax>271</ymax>
+    </bndbox>
+  </object>
+</annotation>

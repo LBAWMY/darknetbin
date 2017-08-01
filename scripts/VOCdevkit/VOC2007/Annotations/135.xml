@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>VOC2007</folder>
+  <filename>135.jpg</filename>
+  <path>/home/lbin/Pictures/VOC2007/135.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>600</width>
+    <height>670</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>angelababy</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>200</xmin>
+      <ymin>46</ymin>
+      <xmax>437</xmax>
+      <ymax>335</ymax>
+    </bndbox>
+  </object>
+</annotation>

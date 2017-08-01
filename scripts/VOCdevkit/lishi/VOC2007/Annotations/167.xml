@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>VOC2007</folder>
+  <filename>167.jpg</filename>
+  <path>/home/lbin/Pictures/VOC2007/167.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>408</width>
+    <height>570</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>lichen</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>62</xmin>
+      <ymin>50</ymin>
+      <xmax>383</xmax>
+      <ymax>402</ymax>
+    </bndbox>
+  </object>
+</annotation>

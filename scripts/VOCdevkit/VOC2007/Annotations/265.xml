@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>spider_download</folder>
+  <filename>265.jpg</filename>
+  <path>/home/yanweixin/Pictures/spider_download/265.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>724</width>
+    <height>1073</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>luhan</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>93</xmin>
+      <ymin>296</ymin>
+      <xmax>701</xmax>
+      <ymax>833</ymax>
+    </bndbox>
+  </object>
+</annotation>

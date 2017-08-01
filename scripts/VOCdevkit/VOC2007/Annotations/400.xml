@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>spider_download</folder>
+  <filename>400.jpg</filename>
+  <path>/home/yanweixin/Pictures/spider_download/400.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>701</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dilireba</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>298</xmin>
+      <ymin>71</ymin>
+      <xmax>401</xmax>
+      <ymax>171</ymax>
+    </bndbox>
+  </object>
+</annotation>

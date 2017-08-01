@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>spider_download</folder>
+  <filename>385.jpg</filename>
+  <path>/home/yanweixin/Pictures/spider_download/385.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>440</width>
+    <height>450</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>wangzulan</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>182</xmin>
+      <ymin>81</ymin>
+      <xmax>302</xmax>
+      <ymax>202</ymax>
+    </bndbox>
+  </object>
+</annotation>

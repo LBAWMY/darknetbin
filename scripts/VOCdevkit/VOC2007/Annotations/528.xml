@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>spider_download</folder>
+  <filename>528.jpg</filename>
+  <path>/home/yanweixin/Pictures/spider_download/528.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>480</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>zhengkai</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>68</xmin>
+      <ymin>162</ymin>
+      <xmax>362</xmax>
+      <ymax>497</ymax>
+    </bndbox>
+  </object>
+</annotation>

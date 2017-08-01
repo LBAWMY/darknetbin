@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>spider_download</folder>
+  <filename>485.jpg</filename>
+  <path>/home/yanweixin/Pictures/spider_download/485.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>551</width>
+    <height>725</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dengchao</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>71</xmin>
+      <ymin>83</ymin>
+      <xmax>312</xmax>
+      <ymax>360</ymax>
+    </bndbox>
+  </object>
+</annotation>

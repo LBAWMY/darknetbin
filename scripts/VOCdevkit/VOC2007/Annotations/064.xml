@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>VOC2007</folder>
+  <filename>064.jpg</filename>
+  <path>/home/lbin/Pictures/VOC2007/064.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dilireba</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>237</xmin>
+      <ymin>124</ymin>
+      <xmax>467</xmax>
+      <ymax>387</ymax>
+    </bndbox>
+  </object>
+</annotation>

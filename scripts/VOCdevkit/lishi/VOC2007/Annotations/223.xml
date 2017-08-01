@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>VOC2007</folder>
+  <filename>223.jpg</filename>
+  <path>/home/lbin/Pictures/VOC2007/223.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>477</width>
+    <height>432</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>wangzulan</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>221</xmin>
+      <ymin>59</ymin>
+      <xmax>462</xmax>
+      <ymax>335</ymax>
+    </bndbox>
+  </object>
+</annotation>
