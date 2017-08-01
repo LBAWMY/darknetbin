@@ -1,0 +1,7 @@
+classes= 7
+train  = /data/GPU_environment/darknet/scripts/2007_train.txt
+//valid  = /home/pjreddie/data/voc/2007_test.txt
+names = data/voc.names
+backup = /data/GPU_environment/darknet/results/
+//backup = backup
+
